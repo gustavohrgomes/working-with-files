@@ -1,0 +1,17 @@
+[
+  {
+    "Date": "2020-08-01T00:00:00-07:00",
+    "TemperatureCelsius": 25,
+    "Summary": "Hot"
+  },
+  {
+    "Date": "2020-07-01T00:00:00-07:00",
+    "TemperatureCelsius": -5,
+    "Summary": "cold"
+  },
+  {
+    "Date": "2020-06-01T00:00:00-07:00",
+    "TemperatureCelsius": 18,
+    "Summary": "warm"
+  }
+]
